@@ -1,4 +1,3 @@
-## 👋 hi, im nishant, an engineering student @ university of waterloo!
-
-currently exploring deep learning and ml engineering, focused focused on **llms and agentic systems**
+## hi, im nishant 👋
+engineering student @ university of waterloo, exploring deep learning, LLMs, and agentic systems!
 reach me; n26modi@uwaterloo.ca
