@@ -1,5 +1,4 @@
-## hi, im nishant 👋
+## 👋 hi, im nishant, an engineering student @ university of waterloo!
 
-engineering @ university of waterloo, reach me; n26modi@uwaterloo.ca
-
-exploring deep learning and ml engineering, focused focused on **llms and agentic systems**
+currently exploring deep learning and ml engineering, focused focused on **llms and agentic systems**
+reach me; n26modi@uwaterloo.ca
