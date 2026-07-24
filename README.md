@@ -1,5 +1,5 @@
 ## hi, im nishant 👋
 engineering student @ university of waterloo, 
-interested in LLM post-training and inference!
+interested in research and inference optimization!
 
 reach me; n26modi@uwaterloo.ca
