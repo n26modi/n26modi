@@ -1,5 +1,5 @@
 ## hi, im nishant 👋
 engineering student @ university of waterloo, 
-interested in ml, llm's and research! 
+interested in research, evals, and continual learning! 
 
 reach me; n26modi@uwaterloo.ca
